@@ -1,3 +1,17 @@
+# Introduction
+  This project is to learn and apply redux and react.
+# Screenshot:
+
+![dv](https://github.com/sakshijain20/social-media-post-redux/blob/master/screenshots/Screenshot%202021-04-07%20at%2012.37.25%20AM.png)
+
+# Tech Stack used
+  - React
+  - Redux
+  - HTML
+  - CSS
+  - Javascript
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
